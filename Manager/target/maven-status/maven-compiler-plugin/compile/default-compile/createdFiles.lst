@@ -1,0 +1,8 @@
+lemmensthijmen\manager\Main.class
+lemmensthijmen\manager\commands\AreaCommand.class
+lemmensthijmen\manager\enums\GameStates.class
+lemmensthijmen\manager\commands\TestCommand.class
+lemmensthijmen\manager\Game.class
+lemmensthijmen\manager\Countdown.class
+lemmensthijmen\manager\Area.class
+lemmensthijmen\manager\Manager.class

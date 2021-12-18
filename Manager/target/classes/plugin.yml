@@ -1,0 +1,13 @@
+name: Manager
+version: '1.0-SNAPSHOT'
+main: lemmensthijmen.manager.Main
+api-version: 1.17
+commands:
+  area:
+    description: area command
+    aliases:
+      - join
+      - leave
+      - reset
+  test:
+    description: test command
